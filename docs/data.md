@@ -10,9 +10,6 @@
 * See guidance to respond to each field, and their use cases, by clicking the arrow to the left of the bold field names below.
 
 Expand the Data section. This section has seven fields; click below to expand guidance for each field.
-
-   * 
-
     
 <details>
     <summary>**[Is data quantitative or qualitative?](https://github.com/HEAL/heal-metadata-schemas/blob/main/for-investigators-how-to/study-level-metadata-fields/study-metadata-schema-for-humans.md#:~:text=data_orientation)**</summary>
